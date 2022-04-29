@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Parcel is a workflow-engime designed to make office life easier!
+
+It's direct "competotors" are Microsoft Excel and MathWorks MATLAB - though different tools are designed for different things.
+
+Parcel is designed for non-programmers, but it's also intended to be as extensible as possible 😆
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,3 +16,21 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# Overview
+
+Official Website
+
+Forum
+
+Official (End-User) Public Wiki
+
+Itch.io Release
+
+YouTube Channel
+
+Training Series
+
+# For Develoeprs
+
+Look into ParcelTasks and ParcelDesignDocuments for more information. If you are stuck, check ParcelDeveloperHub.
