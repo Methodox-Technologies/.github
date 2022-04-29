@@ -2,7 +2,7 @@
 
 Parcel is a workflow-engine designed to make office life easier!
 
-It's direct "competotors" are Microsoft Excel and MathWorks MATLAB - though different tools are designed for different things.
+It's direct "competitors" are Microsoft Excel, MathWorks MATLAB, and Python - though different tools are designed for different things.
 
 Parcel is designed for non-programmers, but it's also intended to be as extensible as possible 😆
 
