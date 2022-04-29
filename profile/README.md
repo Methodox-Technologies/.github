@@ -31,7 +31,7 @@ YouTube Channel
 
 Training Series
 
-Parcel is completely free for non-commercial use!🎉
+Parcel is completely free for non-commercial use and small businesses!🎉
 
 # For Develoeprs
 
