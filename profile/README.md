@@ -31,6 +31,8 @@ YouTube Channel
 
 Training Series
 
+Parcel is completely free for non-commercial use!🎉
+
 # For Develoeprs
 
 Look into ParcelTasks and ParcelDesignDocuments for more information. If you are stuck, check ParcelDeveloperHub.
