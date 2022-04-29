@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Parcel is a workflow-engime designed to make office life easier!
+Parcel is a workflow-engine designed to make office life easier!
 
 It's direct "competotors" are Microsoft Excel and MathWorks MATLAB - though different tools are designed for different things.
 
