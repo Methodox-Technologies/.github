@@ -19,6 +19,8 @@ Parcel is designed for non-programmers, but it's also intended to be as extensib
 
 # Overview
 
+(This software is still in-dev; When it's ready for production use I will open the private repos)
+
 Official Website
 
 Forum
