@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Quick Demo](https://youtu.be/yEHaf_4y5AE)
+[Video Demo](https://youtu.be/yEHaf_4y5AE)
 
 Parcel is a workflow-engine designed to make office life easier!
 
