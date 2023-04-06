@@ -4,6 +4,10 @@
 
 Parcel is a workflow-engine designed to make office life easier!
 
+* Inspired by Houdini and Grasshooper, as a replacement to Excel, Ipython, and Matlab - it's a graphical platform designed for interactively designing, debugging and executing workflow-based processes, enabling efficient iterations of data operations; 
+* Currently working on second iteration, with full Python interoperability (through Cpython)
+
+
 It's direct "competitors" are Microsoft Excel, MathWorks MATLAB, and Python - though different tools are designed for different things.
 
 Parcel is designed for non-programmers, but it's also intended to be as extensible as possible 😆
