@@ -21,9 +21,9 @@ Forum
 
 Official (End-User) Public Wiki
 
-Itch.io Release
+Itch.io Release: https://charles-zhang.itch.io/parcel
 
-YouTube Channel
+YouTube Channel: [Charles Zhang](https://www.youtube.com/playlist?list=PLuGKdF2KHaWF6V9-eUWfelc5ZAoHCUbej) <!--In the forseeable future I will be the only one developing this, and to save management effort, I will just take all the glory and manage it under my own accounts.-->
 
 Training Series
 
