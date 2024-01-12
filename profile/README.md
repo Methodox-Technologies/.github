@@ -13,6 +13,7 @@ The key problem Parcel trying to solve is the "growth" problem of prototype anal
 
 |Repo|Description|Status|
 |-|-|-|
+|[Parcel V1 Prototype](https://github.com/Charles-Zhang-Parcel/Parcel_V1_Prototype)|Original functional prototype with dashboard function targeting Windows and .Net 6.|Demo Only; Active (Maintenance Only)|
 |[Parcel V1](https://github.com/Charles-Zhang-Parcel/Parcel_V1)|Original prototype of Parcel without the dashboard (web server) part. This serves as functional demo of the concept. Implemented using C# in WPF.|Active (Maintenance Only); All design documents will be migrated|
 |[Parcel V7](https://github.com/Charles-Zhang-Parcel/ParcelV7)|Current active development of the "official" version of Parcel.|Active (Development)|
 |[Parcel.V6](https://github.com/Charles-Zhang-Parcel/Parcel.V6)||(Private) Archive|
