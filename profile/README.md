@@ -13,25 +13,37 @@ The key problem Parcel trying to solve is the "growth" problem of prototype anal
 
 # Overview
 
+Active repo: https://github.com/Charles-Zhang-Parcel/ParcelV7
+
 (This software is still in-dev; When it's ready for production use I will open the private repos)
 
-Official Website
-
-Forum
-
-Official (End-User) Public Wiki
-
-Itch.io Release: https://charles-zhang.itch.io/parcel
-
-YouTube Channel: [Charles Zhang](https://www.youtube.com/playlist?list=PLuGKdF2KHaWF6V9-eUWfelc5ZAoHCUbej) <!--In the forseeable future I will be the only one developing this, and to save management effort, I will just take all the glory and manage it under my own accounts.-->
-
-Training Series
+* Official Website: https://parcel.totalimagine.com
+* Forum: [Github Discussion](https://github.com/Charles-Zhang-Parcel/ParcelV7/discussions)
+* Official (End-User) Public Wiki: https://github.com/Charles-Zhang-Parcel/ParcelV7/tree/main/Wiki
+* Itch.io Release: https://charles-zhang.itch.io/parcel
+* YouTube Channel: [Charles Zhang](https://www.youtube.com/playlist?list=PLuGKdF2KHaWF6V9-eUWfelc5ZAoHCUbej) <!--In the forseeable future I will be the only one developing this, and to save management effort, I will just take all the glory and manage it under my own accounts.-->
+* Training Series: PENDING (YouTube)
 
 Parcel is completely free for non-commercial use and small businesses!🎉
 
 # For Develoeprs
 
 Look into ParcelTasks and ParcelDesignDocuments for more information. If you are stuck, check ParcelDeveloperHub.
+
+# A Note on V7 - History of Parcel
+
+```mermaid
+timeline
+title Parcel Main Version
+  Parcel Prototype
+    : 2022.05
+  Parcel V1
+    : 2022
+  Parcel V5
+    : 2023
+  Parcel V7
+    : 2024
+```
 
 <!--
 
