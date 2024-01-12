@@ -26,9 +26,13 @@ Active repo: https://github.com/Charles-Zhang-Parcel/ParcelV7
 
 Parcel is completely free for non-commercial use and small businesses!🎉
 
-# For Develoeprs
+# Parcel Developer Hub
 
-Look into ParcelTasks and ParcelDesignDocuments for more information. If you are stuck, check ParcelDeveloperHub.
+Provides general purpose usage manual, [basic wiki](https://github.com/Charles-Zhang-Parcel/ParcelV7/tree/main/Wiki), general [Q&amp;A discussion](https://github.com/Charles-Zhang-Parcel/ParcelV7/discussions/categories/technical), and [bug](https://github.com/Charles-Zhang-Parcel/ParcelV7/issues)/[request firing](https://github.com/Charles-Zhang-Parcel/ParcelV7/discussions/categories/ideas).
+
+This is mostly targeting developers. For end-users, use [Forum](https://github.com/Charles-Zhang-Parcel/ParcelV7/discussions) and [Official Wiki](https://github.com/Charles-Zhang-Parcel/ParcelV7/tree/main/Wiki).
+
+Look into ParcelTasks and ParcelDesignDocuments for more information.
 
 # A Note on V7 - History of Parcel
 
