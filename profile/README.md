@@ -11,6 +11,17 @@ Parcel is a workflow-engine designed to make office life and data analytics easi
 
 The key problem Parcel trying to solve is the "growth" problem of prototype analytical scripts - you will know what I mean if you've started something simple in Python, and a few months later is becomes a monster that you don't want to touch. Beginners and new programmers in Python are especially prone to this problem, because they thought Python is easy to learn, only to learn that it's not that easy to write good Python good after all.
 
+|Repo|Description|Status|
+|-|-|-|
+|[Parcel V1](https://github.com/Charles-Zhang-Parcel/Parcel_V1)|Original prototype of Parcel without the dashboard (web server) part. This serves as functional demo of the concept. Implemented using C# in WPF.|Active (Maintenance Only); All design documents will be migrated|
+|[Parcel V7](https://github.com/Charles-Zhang-Parcel/ParcelV7)|Current active development of the "official" version of Parcel.|Active (Development)|
+|[Parcel.V6](https://github.com/Charles-Zhang-Parcel/Parcel.V6)||(Private) Archive|
+|[Parcel.V6.Prototype](https://github.com/Charles-Zhang-Parcel/Parcel.V6.Prototype)||(Private)|
+|[Parcel.V6.DevOp](https://github.com/Charles-Zhang-Parcel/Parcel.V6.DevOp)|||
+|[SetupTests](https://github.com/Charles-Zhang-Parcel/SetupTests)||(Private)|
+|[ParcelDesignManage](https://github.com/Charles-Zhang-Parcel/ParcelDesignManage)||(Private) Archive; In-migration, may delete|
+|[ParcelTasks](https://github.com/Charles-Zhang-Parcel/ParcelTasks)||In-migration, will eventually delete|
+
 # Overview
 
 Active repo: https://github.com/Charles-Zhang-Parcel/ParcelV7
