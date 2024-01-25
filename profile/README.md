@@ -34,6 +34,7 @@ Active repo: https://github.com/Charles-Zhang-Parcel/Parcel_NExT (Formerlly know
 * Official (End-User) Public Wiki: https://github.com/Charles-Zhang-Parcel/Parcel_NExT/tree/main/Wiki
 * Itch.io Release: https://charles-zhang.itch.io/parcel
 * YouTube Channel: [Charles Zhang](https://www.youtube.com/playlist?list=PLuGKdF2KHaWF6V9-eUWfelc5ZAoHCUbej) <!--In the forseeable future I will be the only one developing this, and to save management effort, I will just take all the glory and manage it under my own accounts.-->
+* Telegram: [Telegram Group](https://t.me/+zFs-woUjnLVlNjUx)
 * Training Series: PENDING (YouTube)
 * Azure DevOps: https://dev.azure.com/ParcelEngine/Parcel
 
