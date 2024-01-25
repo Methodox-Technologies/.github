@@ -25,40 +25,42 @@ The key problem Parcel trying to solve is the "growth" problem of prototype anal
 
 # Overview
 
-Active repo: https://github.com/Charles-Zhang-Parcel/ParcelV7
+Active repo: https://github.com/Charles-Zhang-Parcel/Parcel_NExT (Formerlly known as "Parcel V7")
 
 (This software is still in-dev; When it's ready for production use I will open the private repos)
 
 * Official Website: https://parcel.totalimagine.com
-* Forum: [Github Discussion](https://github.com/Charles-Zhang-Parcel/ParcelV7/discussions)
-* Official (End-User) Public Wiki: https://github.com/Charles-Zhang-Parcel/ParcelV7/tree/main/Wiki
+* Forum: [Github Discussion](https://github.com/Charles-Zhang-Parcel/Parcel_NExT/discussions)
+* Official (End-User) Public Wiki: https://github.com/Charles-Zhang-Parcel/Parcel_NExT/tree/main/Wiki
 * Itch.io Release: https://charles-zhang.itch.io/parcel
 * YouTube Channel: [Charles Zhang](https://www.youtube.com/playlist?list=PLuGKdF2KHaWF6V9-eUWfelc5ZAoHCUbej) <!--In the forseeable future I will be the only one developing this, and to save management effort, I will just take all the glory and manage it under my own accounts.-->
 * Training Series: PENDING (YouTube)
+* Azure DevOps: https://dev.azure.com/ParcelEngine/Parcel
 
 Parcel is completely free for non-commercial use and small businesses!🎉
 
 # Parcel Developer Hub
 
-Provides general purpose usage manual, [basic wiki](https://github.com/Charles-Zhang-Parcel/ParcelV7/tree/main/Wiki), general [Q&amp;A discussion](https://github.com/Charles-Zhang-Parcel/ParcelV7/discussions/categories/technical), and [bug](https://github.com/Charles-Zhang-Parcel/ParcelV7/issues)/[request firing](https://github.com/Charles-Zhang-Parcel/ParcelV7/discussions/categories/ideas).
+Provides general purpose usage manual, [basic wiki](https://github.com/Charles-Zhang-Parcel/Parcel_NExT/tree/main/Wiki), general [Q&amp;A discussion](https://github.com/Charles-Zhang-Parcel/Parcel_NExT/discussions/categories/technical), and [bug](https://github.com/Charles-Zhang-Parcel/Parcel_NExT/issues)/[request firing](https://github.com/Charles-Zhang-Parcel/Parcel_NExT/discussions/categories/ideas).
 
-This is mostly targeting developers. For end-users, use [Forum](https://github.com/Charles-Zhang-Parcel/ParcelV7/discussions) and [Official Wiki](https://github.com/Charles-Zhang-Parcel/ParcelV7/tree/main/Wiki).
+This is mostly targeting developers. For end-users, use [Forum](https://github.com/Charles-Zhang-Parcel/Parcel_NExT/discussions) and [Official Wiki](https://github.com/Charles-Zhang-Parcel/Parcel_NExT/tree/main/Wiki).
 
 Look into ParcelTasks and ParcelDesignDocuments for more information.
 
-# A Note on V7 - History of Parcel
+# A Note on NExT - History of Parcel
 
 ```mermaid
 timeline
 title Parcel Main Version
-  Parcel Prototype
-    : 2022.05
-  Parcel V1
-    : 2022
-  Parcel V5
-    : 2023
-  Parcel V7
-    : 2024
+  2022.05
+    : Parcel Prototype
+  2022
+    : Parcel V1
+  2023
+    : Parcel V5
+  2024
+    : Parcel V7
+    : Rename V7 to NExT
 ```
 
 <!--
