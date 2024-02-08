@@ -2,7 +2,7 @@
 
 Hi there!👋
 
-Parcel is a general purpose visual scripting platform and workflow execution engine. Here is a video demo of an [early prototype (C#, WPF)](https://youtu.be/yEHaf_4y5AE).
+Parcel is a lightweight general-purpose functional/procedural node based visual scripting platform/workflow execution engine, along with PSL (Parcel Standard Libraries), POF (Parcel Original Frameworks), PVM (Parcel Virtual Machine) and POS (Parcel Open Stadards) specs, with built-in runtime handling and context awareness for C# and Python, and a text-based scripting DSL (Domain-Specific Language) known as MiniParcel. Here is a video demo of an [early prototype in C# implemented using WPF (2022)](https://youtu.be/yEHaf_4y5AE).
 
 Parcel is a workflow-engine designed to make office life and data analytics easier with better visualization, and with a stretch - maybe even fun! It's direct "competitors" are Microsoft Excel, MathWorks MATLAB, and Python - though different tools are designed for different things. Parcel is designed for non-programmers, but it's also intended to be as extensible as possible 😆 My intention is to create a new kind of data analytics role which I shall call "Technical Analyst", which is like in between a usual data analyst and someone who is also concerned with higher-level insights (like manager). It's a bridge between lower level implementations (e.g. in Python or C#) and higher level analytics goals.
 
