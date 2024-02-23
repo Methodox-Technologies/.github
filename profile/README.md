@@ -50,13 +50,15 @@ Look into ParcelTasks and ParcelDesignDocuments for more information.
 
 ```mermaid
 timeline
-title Parcel Main Version
+title Parcel Iterations before Main Version
   2022.05
     : Parcel Prototype
   2022
     : Parcel V1
   2023
     : Parcel V5
+    : Expresso
+    : Pure
   2024
     : Parcel V7
     : Rename V7 to NExT
