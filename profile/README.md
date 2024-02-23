@@ -46,7 +46,7 @@ This is mostly targeting developers. For end-users, use [Forum](https://github.c
 
 Look into ParcelTasks and ParcelDesignDocuments for more information.
 
-# A Note on NExT - History of Parcel
+# A Note on NExT - History of Parcel🗓️
 
 ```mermaid
 timeline
@@ -60,6 +60,8 @@ title Parcel Main Version
   2024
     : Parcel V7
     : Rename V7 to NExT
+    : First Parcel DevDay
+    : (Expected) First full release EoY
 ```
 
 <!--
