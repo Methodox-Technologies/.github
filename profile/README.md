@@ -44,7 +44,7 @@ Provides general purpose usage manual, [basic wiki](https://github.com/Charles-Z
 
 This is mostly targeting developers. For end-users, use [Forum](https://github.com/Charles-Zhang-Parcel/Parcel_NExT/discussions) and [Official Wiki](https://github.com/Charles-Zhang-Parcel/Parcel_NExT/tree/main/Wiki).
 
-Look into ParcelTasks and ParcelDesignDocuments for more information.
+Look into ~~ParcelTasks and ParcelDesignDocuments for more information~~ (migrating to Azure DevOps).
 
 # A Note on NExT - History of Parcel🗓️
 
