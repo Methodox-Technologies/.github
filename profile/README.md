@@ -52,7 +52,7 @@ Look into ParcelTasks and ParcelDesignDocuments for more information.
 timeline
 title Parcel Iterations before Main Version
   2022.05
-    : Parcel Prototype
+    : Original Prototype
   2022
     : Parcel V1
   2023
