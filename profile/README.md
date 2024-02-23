@@ -60,8 +60,7 @@ title Parcel Iterations before Main Version
     : Expresso
     : Pure
   2024
-    : Parcel V7
-    : Rename V7 to NExT
+    : Parcel V7, latter renamed to NExT
     : First Parcel DevDay
     : (Expected) First full release EoY
 ```
