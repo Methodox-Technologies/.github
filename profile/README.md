@@ -63,6 +63,8 @@ title Parcel Iterations before Main Version
     : Parcel V7, latter renamed to NExT
     : First Parcel DevDay
     : (Expected) First full release EoY
+  2024.09
+    : Methodox Parcel
 ```
 
 <!--
