@@ -21,6 +21,8 @@ The key problem Parcel trying to solve is the "growth" problem of prototype anal
 |Prototypes|||
 |[ParcelTasks](https://github.com/Charles-Zhang-Parcel/ParcelTasks)||In-migration, will eventually delete|
 
+Optn source strategy: core runtimes and engine and specifications are all open source; major front-ends are closed source but free to use. Standard libraries all have open specifications but implementation may be closed source. DSLs are usually closed source. All software are generally free to use for individuals (check license for each) and charges licensing fees for commercial use with signficant revenues.
+
 # Overview
 
 Active repo: https://github.com/Charles-Zhang-Parcel/Parcel_NExT (Formerlly known as "Parcel V7")
