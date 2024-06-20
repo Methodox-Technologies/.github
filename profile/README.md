@@ -1,4 +1,4 @@
-# Parcel - The Workflow Engine (Organization Overview Page)
+# Parcel - the Visual Programming Platform
 
 Hi there!👋
 
