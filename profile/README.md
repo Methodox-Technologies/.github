@@ -1,7 +1,15 @@
-# Parcel - the Visual Programming Platform
+# Methodox Technologies, Inc.
 
-Hi there!👋
+Hi there! 👋
 
-Parcel is a visual scripting platform that enables people to use graphical building blocks to solve problems. Despite the simple look, it's quite advanced behind the scene. Parcel is a flowchart engine designed to make office life and data analytics easier with better visualization, and with a stretch - maybe even fun! It complements the use of Excel, MATLAB/Python.
+This organization holds the development of **Divooka**, a general-purpose visual programming system from Methodox Technologies, Inc. in Toronto. Divooka was previously known as Parcel, and the reference implementation repository still carries the name Parcel NExT.
 
-From a technical perspective, Parcel is an advanced lightweight general-purpose functional/procedural node-based workflow execution engine, along with PSL (Parcel Standard Libraries), POF (Parcel Original Frameworks), PVM (Parcel Virtual Machine) and POS (Parcel Open Stadards) specs, with built-in runtime handling and context awareness for C# and Python, and a text-based scripting DSL (Domain-Specific Language) known as MiniParcel. Parcel is suituated between a Fourth generation languages (4GL) and Third generation languages (3GL), meaning it operates on high level domain objects but is still largely algorithm based despite declarative features. Here is a video demo of an [early prototype in C# implemented using WPF (2022)](https://youtu.be/yEHaf_4y5AE). It's simple enough to be used by non-programmers but also extensive enough to be used by experienced developers. The primary focus of Parcel at know is shell automation and data analytics. Parcel is specified by a [suite of standards](https://github.com/Charles-Zhang-Parcel/Parcel_NExT/tree/main/Parcel%20Open%20Standard) and is provided as a reference implementation known as Parcel NExT.
+Divooka programs are graphs of nodes. A graph can be dataflow, a step-by-step routine, a state machine, a declarative description or a type, and a document can mix them. Divooka comes in two editions: **Explore** for learning and exploring, and **Compute** for professional work, with package management, a compiled runtime and a command-line runner.
+
+* [Divooka Explore on Steam](https://store.steampowered.com/app/4422920/Divooka_Explore/), with a free [demo](https://store.steampowered.com/app/4770820/Divooka_Explore_Demo/)
+* [Divooka Compute on Steam](https://store.steampowered.com/app/3381720/Divooka_Compute/)
+* [Methodox Wiki](https://wiki.methodox.io/) for guides and reference
+* [Benchmarks](https://github.com/MethodoxTech/DivookaBenchmark_Mandelbrot) comparing Divooka with other languages
+* [methodox.io](https://methodox.io/) and [blog.methodox.io](https://blog.methodox.io/)
+
+Most repositories in this organization are private. The public ones are small libraries and forks we maintain for Divooka.
